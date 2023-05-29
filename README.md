@@ -14,4 +14,5 @@ This valuable data encompassed crucial metrics including step count, heart rate,
     4. XGBoost
     
 **So Let's get started with our eyes wide open Or..!!**
+
 ![Cat Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ3YWZhOTI3ODNkOGE1ZGFjNzRlYjQzMTlhNDc3NzA4ZWQwOGRmYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vMbC8xqhIf9ny/giphy.gif)
