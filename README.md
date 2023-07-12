@@ -1,8 +1,10 @@
 # Sleep Prediction - Unlocking the Secrets of Restful Nights
-## In this problem we have to predict the sleep time. 
 
-We have 8 years of historic health data taken from various devices including Fitbit, Apple Watch, and iPhone. <br>
-This valuable data encompassed crucial metrics including step count, heart rate, exercise time, and energy burned.
+Sleep plays a vital role in our overall well-being, and in this project, we embark on the exciting journey of predicting sleep time. By leveraging a wealth of historic health data collected from various devices such as Fitbit, Apple Watch, and iPhone over the span of 8 years, we aim to unlock the secrets behind restful nights.
+
+This valuable dataset encompasses a range of crucial metrics, including step count, heart rate, exercise time, and energy burned. With this rich information at our disposal, we dive deep into the world of sleep patterns and explore the factors that influence quality and duration.
+
+To tackle this predictive challenge, we will train two distinct models. First, a powerful Neural Network model will harness the complexity of sleep data, enabling us to capture intricate patterns and make accurate predictions. Additionally, we will develop an Ensemble Model that combines the strength of various tree-based algorithms, including Decision Tree, Random Forest, ADA Boost, Gradient Boost, and XGBoost. This ensemble approach maximizes the predictive power by leveraging the unique strengths of each algorithm.
 
 ### In this project we will train 2 model
 1. Neural Network
@@ -12,7 +14,7 @@ This valuable data encompassed crucial metrics including step count, heart rate,
     2. ADA Boost
     3. Gradient Boost
     4. XGBoost
-    
+    5. 
 **So Let's get started with our eyes wide open Or..!!**
 
 ![Cat Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ3YWZhOTI3ODNkOGE1ZGFjNzRlYjQzMTlhNDc3NzA4ZWQwOGRmYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vMbC8xqhIf9ny/giphy.gif)
