@@ -14,7 +14,7 @@ To tackle this predictive challenge, we will train two distinct models. First, a
     2. ADA Boost
     3. Gradient Boost
     4. XGBoost
-    5. 
+   
 **So Let's get started with our eyes wide open Or..!!**
 
 ![Cat Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ3YWZhOTI3ODNkOGE1ZGFjNzRlYjQzMTlhNDc3NzA4ZWQwOGRmYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vMbC8xqhIf9ny/giphy.gif)
